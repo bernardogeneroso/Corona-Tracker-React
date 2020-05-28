@@ -1,0 +1,25 @@
+.row {
+  padding: 12px;
+}
+
+.contentTop .row .col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contentTop .row .col-md-4,
+.contentTop .row .col-md-4 .card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.contentTop .row .col-md-4 {
+  margin-top: 12px;
+}
+
+.titleCardTop {
+  font-size: xxx-large;
+}
